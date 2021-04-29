@@ -9,4 +9,8 @@ namespace studentApp
             Console.WriteLine("Hi . this is practice application for student information for asp.netcore corse");
         }
     }
+    class studeny
+    {
+
+    }
 }
